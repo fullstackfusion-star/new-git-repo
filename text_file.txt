@@ -1,0 +1,1 @@
+Now the file is added in staging area if we run git commit -am "Message" or git addd -u after editing it once again then it will be added as it's already know by git
